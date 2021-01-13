@@ -1,0 +1,19 @@
+{
+  "name": "recipe_connection",
+  "version": "1.0.0",
+  "description": "An app to share cooking recipes",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Gaks98/recipe_connection.git"
+},
+  "author": "Yvonne Gakii",
+  "license": "ISC",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
+
